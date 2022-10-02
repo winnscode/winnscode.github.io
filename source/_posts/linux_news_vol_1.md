@@ -1,8 +1,8 @@
 ---
 title: 一周Linux资讯 Vol. 1
 date: 2022-09-23 10:00:00
-tags: [linux, 一周linux资讯]
-categories: blog
+tags: [linux, kernel]
+categories: 一周linux资讯
 ---
 
 ### 一周Linux资讯 Vol. 1
