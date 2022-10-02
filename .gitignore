@@ -1,6 +1,4 @@
 .deploy_git
-
-
 public/
-
 db.json
+update.sh
