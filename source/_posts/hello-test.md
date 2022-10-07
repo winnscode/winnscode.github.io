@@ -10,3 +10,7 @@ hello, World!
 
 Hello!
 
+
+
+[一周Linux资讯 Vol. 1](./linux_news_vol_1.md)
+
